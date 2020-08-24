@@ -1,0 +1,2 @@
+# sqlx-book
+Starting sqlx
