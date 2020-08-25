@@ -1,1 +1,2 @@
-# Connecting to a database
+# Connect to a database
+
